@@ -3,11 +3,11 @@ Hi, I'm Kunal Mansukhani! 👋
 
 Aspiring Software Engineer | AI/ML Enthusiast | Builder
 
-🎓 B.S.E. Computer Science - University of Michigan (Class of 2025)
-🔭 Currently working on LeetGPU: Online CUDA Playground
-🌱 Learning advanced GPU programming and scalable systems
-💡 Passionate about AI-driven solutions, cloud platforms, and developer tools
-🛠️ My Skills:
+-🎓 B.S.E. Computer Science - University of Michigan (Class of 2025)
+-🔭 Currently working on LeetGPU: Online CUDA Playground
+-🌱 Learning advanced GPU programming and scalable systems
+-💡 Passionate about AI-driven solutions, cloud platforms, and developer tools
+-🛠️ My Skills:
 
     Languages: Python, JavaScript, TypeScript, Swift, Java, C/C++, SQL
     Frameworks: PyTorch, TensorFlow, Spring Boot, React.js, Redux, CUDA
